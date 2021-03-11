@@ -17,9 +17,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/biscuitProjects/testFCM/issues"
-  },
   "dependencies": {
     "express": "^4.17.1",
     "bcryptjs": "^2.4.3",
