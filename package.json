@@ -20,7 +20,6 @@
   "bugs": {
     "url": "https://github.com/biscuitProjects/testFCM/issues"
   },
-  "homepage": "https://github.com/biscuitProjects/testFCM#readme",
   "dependencies": {
     "express": "^4.17.1",
     "bcryptjs": "^2.4.3",
